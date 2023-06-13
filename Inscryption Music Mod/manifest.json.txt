@@ -1,0 +1,9 @@
+{
+    "name": "Juice_Music_Mod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/juicedupbox/music-mod/tree/main/Inscryption%20Music%20Mod",
+    "description": "Adds 50 cards and some starter decks based on various songs!,
+    "dependencies": [
+        "BepInExPack_Inscryption","MonoMod_Loader_Inscryption","API","Candy_Jam","BittysSigils","JSONCardLoader","Pack_Management_API","MoxSquirrels"
+    ]
+}
