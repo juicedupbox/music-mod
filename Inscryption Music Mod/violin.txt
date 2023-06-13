@@ -1,0 +1,16 @@
+{
+  "name": "IGCC_violin",
+  "modPrefix": "IGCC",
+  "displayedName": "violin",
+  "description": "here to spew it's tiny symphony",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "gemsCost": [ "Green" ],
+  "tribes": [ "Hooved" ],
+  "abilities": [ "Sacrificial" ],
+  "texture": "IGCC_violin.png"
+}

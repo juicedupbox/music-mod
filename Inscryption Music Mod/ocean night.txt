@@ -1,0 +1,16 @@
+{
+  "name": "IGCC_ocean_night",
+  "modPrefix": "IGCC",
+  "displayedName": "ocean night",
+  "description": "drown the angler drown the angler drown the angler drown the angler drown the angler drown the angler ",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "energyCost": 2,
+  "tribes": [ "Bird" ],
+  "abilities": [ "Submerge" ],
+  "emissionTexture": "IGCC_ocean_night_emission.png",
+  "texture": "IGCC_ocean_night.png"
+}

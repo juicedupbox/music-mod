@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_robert",
+  "modPrefix": "IGCC",
+  "displayedName": "robert",
+  "description": "all the other kids have pumped up kicks",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 2, 
+  "tribes": [ "Reptile" ],
+  "abilities": [ "Sniper" ],
+  "texture": "IGCC_robert.png"
+}

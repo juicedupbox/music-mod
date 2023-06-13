@@ -1,0 +1,17 @@
+{
+  "name": "IGCC_s__sight",
+  "modPrefix": "IGCC",
+  "displayedName": "s. sight",
+  "description": "a ballad worthy for a necromancer",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "energyCost": 4,
+  "tribes": [ "Bird" ],
+  "abilities": [ "bitty45.inscryption.sigils_Gem Phobic" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "IGCC_s__sight.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_hider",
+  "modPrefix": "IGCC",
+  "displayedName": "hider",
+  "description": "shhhh... it's coming!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "gemsCost": [ "Blue" ],
+  "tribes": [ "Bird" ],
+  "abilities": [ "bitty45.inscryption.sigils_Clockwise", "KJAM_SIGIL_Candy Curse" ],
+  "texture": "IGCC_hider.png"
+}

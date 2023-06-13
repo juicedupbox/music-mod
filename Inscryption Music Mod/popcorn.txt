@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_popcorn",
+  "modPrefix": "IGCC",
+  "displayedName": "popcorn",
+  "description": "i put the packet on the glass (what glass?)",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [ "Canine" ],
+  "abilities": [ "AllStrike", "Brittle" ],
+  "texture": "IGCC_popcorn.png"
+}

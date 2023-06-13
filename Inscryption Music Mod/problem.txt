@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_problem",
+  "modPrefix": "IGCC",
+  "displayedName": "problem",
+  "description": "when i was 17 on halloween i dressed up as aladdin",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "gemsCost": [ "Green" ],
+  "tribes": [ "Canine" ],
+  "abilities": [ "bitty45.inscryption.sigils_Heart Swap" ],
+  "texture": "IGCC_problem.png"
+}

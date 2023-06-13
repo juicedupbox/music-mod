@@ -1,0 +1,16 @@
+{
+  "name": "IGCC_vs__susie",
+  "modPrefix": "IGCC",
+  "displayedName": "vs. susie",
+  "description": "do not call apon her rage, she will anwser",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 5,
+  "bloodCost": 2,
+  "tribes": [ "Bird" ],
+  "abilities": [ "bitty45.inscryption.sigils_Repulsion", "bitty45.inscryption.sigils_Counter Attack" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "IGCC_vs__susie.png"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "IGCC_smokin__joe",
+  "modPrefix": "IGCC",
+  "displayedName": "smokin' joe",
+  "description": "they say his fist burns when he pulls that trigger",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 4,
+  "bloodCost": 3,
+  "tribes": [ "Canine" ],
+  "abilities": [ "Sniper" ],
+  "specialStatIcon": "Bell",
+  "specialAbilities": [ "BellProximity", "BellProximity" ],
+  "texture": "IGCC_smokin__joe.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_jazz_theme",
+  "modPrefix": "IGCC",
+  "displayedName": "jazz theme",
+  "description": "powering the monkey economy like nothing else can",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 2,
+  "tribes": [ "Bird" ],
+  "abilities": [ "BoneDigger", "GainBattery" ],
+  "texture": "IGCC_banana.png"
+}

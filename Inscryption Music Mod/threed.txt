@@ -1,0 +1,16 @@
+{
+  "name": "IGCC_threed",
+  "modPrefix": "IGCC",
+  "displayedName": "threed",
+  "description": "the undead will take revenge tonight",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 5,
+  "bonesCost": 8,
+  "tribes": [ "Bird" ],
+  "abilities": [ "BoneDigger" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "IGCC_threed.png"
+}

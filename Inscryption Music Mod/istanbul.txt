@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_istanbul",
+  "modPrefix": "IGCC",
+  "displayedName": "istanbul",
+  "description": "that's nobody's business but the turks",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "tribes": [ "Insect" ],
+  "abilities": [ "QuadrupleBones", "TripleBlood", "GainBattery" ],
+  "texture": "IGCC_istanbul.png"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "IGCC_overwhelmed",
+  "modPrefix": "IGCC",
+  "displayedName": "overwhelmed",
+  "description": "(heavy breathing)",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "Transformer" ],
+  "evolveIntoName": "IGCC_underwhelmed",
+  "evolveTurns": 1,
+  "texture": "IGCC_ashes.png"
+}

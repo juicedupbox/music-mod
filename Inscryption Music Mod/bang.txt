@@ -1,0 +1,17 @@
+{
+  "name": "IGCC_bang",
+  "modPrefix": "IGCC",
+  "displayedName": "bang",
+  "description": "here we go!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "energyCost": 2,
+  "gemsCost": [ "Orange" ],
+  "tribes": [ "Hooved" ],
+  "specialStatIcon": "Bones",
+  "specialAbilities": [ "Lammergeier", "Lammergeier" ],
+  "texture": "IGCC_bang.png"
+}

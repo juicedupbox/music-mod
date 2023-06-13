@@ -1,0 +1,16 @@
+{
+  "name": "IGCC_showdown",
+  "modPrefix": "IGCC",
+  "displayedName": "showdown",
+  "description": "ultimate destiny",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "Tutor", "DrawCopy", "DrawAnt", "DrawRabbits", "BeesOnHit", "bitty45.inscryption.sigils_Weak Soul" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "IGCC_showdown.png"
+}

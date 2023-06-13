@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_dumb_song",
+  "modPrefix": "IGCC",
+  "displayedName": "dumb song",
+  "description": "i'd write a description, but i'm to dumb",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "gemsCost": [ "Orange" ],
+  "tribes": [ "Hooved" ],
+  "abilities": [ "ExplodeOnDeath", "KJAM_SIGIL_Candy Curse" ],
+  "texture": "IGCC_dumb_song.png"
+}

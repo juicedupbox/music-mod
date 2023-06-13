@@ -1,0 +1,17 @@
+{
+  "name": "IGCC_ambush",
+  "modPrefix": "IGCC",
+  "displayedName": "ambush",
+  "description": "the holy knife approves",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "tribes": [ "Insect" ],
+  "abilities": [ "CreateDams" ],
+  "emissionTexture": "IGCC_ambush_emission.png",
+  "texture": "IGCC_ambush.png"
+}

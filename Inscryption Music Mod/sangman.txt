@@ -1,0 +1,14 @@
+{
+  "name": "IGCC_sangman",
+  "modPrefix": "IGCC",
+  "displayedName": "sangman",
+  "description": "crap, what do i say if there's no lyrics?",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 4,
+  "abilities": [ "QuadrupleBones", "KJAM_SIGIL_Candy Curse" ],
+  "texture": "IGCC_sangman.png"
+}

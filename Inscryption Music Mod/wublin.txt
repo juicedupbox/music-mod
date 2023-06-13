@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_wublin",
+  "modPrefix": "IGCC",
+  "displayedName": "wublin",
+  "description": "wake up",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "energyCost": 4,
+  "tribes": [ "Bird" ],
+  "abilities": [ "RandomAbility" ],
+  "texture": "IGCC_wublin.png"
+}

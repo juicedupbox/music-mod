@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_non_staff",
+  "modPrefix": "IGCC",
+  "displayedName": "non staff",
+  "description": "hey, i don't work here, and if i did, i would not save your kid",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "tribes": [ "Canine" ],
+  "abilities": [ "RandomAbility" ],
+  "texture": "IGCC_non_staff.png"
+}

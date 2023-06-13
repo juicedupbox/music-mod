@@ -1,0 +1,16 @@
+{
+  "name": "IGCC_king_pig",
+  "modPrefix": "IGCC",
+  "displayedName": "king pig",
+  "description": "a royal coward",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "energyCost": 3,
+  "tribes": [ "Bird" ],
+  "abilities": [ "TailOnHit" ],
+  "emissionTexture": "IGCC_king_pig_emission.png",
+  "texture": "IGCC_king_pig.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_dummy_",
+  "modPrefix": "IGCC",
+  "displayedName": "dummy",
+  "description": ".",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 1,
+  "tribes": [ "Bird" ],
+  "abilities": [ "Sharp" ],
+  "texture": "IGCC_dummy_.png"
+}

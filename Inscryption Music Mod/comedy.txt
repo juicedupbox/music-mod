@@ -1,0 +1,17 @@
+{
+  "name": "IGCC_comedy",
+  "modPrefix": "IGCC",
+  "displayedName": "comedy",
+  "description": "the indescribable power of your comedy",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 6,
+  "bloodCost": 3,
+  "tribes": [ "Canine" ],
+  "abilities": [ "DrawRabbits", "BeesOnHit" ],
+  "specialStatIcon": "CardsInHand",
+  "specialAbilities": [ "CardsInHand", "CardsInHand" ],
+  "texture": "IGCC_comedy.png"
+}

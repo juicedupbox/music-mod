@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_danger_guy",
+  "modPrefix": "IGCC",
+  "displayedName": "danger guy",
+  "description": "(insert boppin earthbound music here)",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bonesCost": 3,
+  "tribes": [ "Bird" ],
+  "abilities": [ "Sniper" ],
+  "texture": "IGCC_danger_guy.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_mixed",
+  "modPrefix": "IGCC",
+  "displayedName": "mixed",
+  "description": "go easy on him, he's triple broken ",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "gemsCost": [ "Blue" ],
+  "tribes": [ "Canine" ],
+  "abilities": [ "WhackAMole" ],
+  "texture": "IGCC_mixed.png"
+}

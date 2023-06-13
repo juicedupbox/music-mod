@@ -1,0 +1,16 @@
+{
+  "name": "IGCC_underwhelmed",
+  "modPrefix": "IGCC",
+  "displayedName": "underwhelmed",
+  "description": "secret",
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "Transformer" ],
+  "evolveIntoName": "IGCC_overwhelmed",
+  "evolveTurns": 1,
+  "texture": "IGCC_ashes.png"
+}

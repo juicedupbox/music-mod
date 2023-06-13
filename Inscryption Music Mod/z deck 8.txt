@@ -1,0 +1,6 @@
+StarterDeckInfo myDeck = ScriptableObject.CreateInstance<StarterDeckInfo>();
+myDeck.title = "Bo";
+myDeck.iconSprite = TextureHelper.GetImageAsSprite("C:\Users\farre\Pictures\Screenshots\Screenshot 2023-06-12 150751 - Copy (2).png", TextureHelper.SpriteType.StarterDeckIcon);
+myDeck.cards = new () { CardLoader.GetCardByName("IGCC_my_dad"), CardLoader.GetCardByName("IGCC_welcome"), CardLoader.GetCardByName("IGCC_comedy") };
+
+StarterDeckManager.Add(MyPlugin.Guid, myDeck);

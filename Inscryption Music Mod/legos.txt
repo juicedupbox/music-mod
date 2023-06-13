@@ -1,0 +1,19 @@
+{
+  "name": "IGCC_legos",
+  "modPrefix": "IGCC",
+  "displayedName": "legos",
+  "description": "don't throw it out",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "gemsCost": [ "Blue" ],
+  "bloodCost": 1,
+  "tribes": [ "Hooved" ],
+  "abilities": [ "DrawAnt" ],
+  "specialStatIcon": "Ants",
+  "specialAbilities": [ "Ant", "Ant" ],
+  "traits": [ "Ant" ],
+  "texture": "IGCC_legos.png"
+}

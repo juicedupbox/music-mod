@@ -1,0 +1,16 @@
+{
+  "name": "IGCC_business_man",
+  "modPrefix": "IGCC",
+  "displayedName": "business man",
+  "description": "ba ba ba ba business man, why does he have a gun?",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "tribes": [ "Canine" ],
+  "abilities": [ "Brittle" ],
+  "specialStatIcon": "Mirror",
+  "specialAbilities": [ "Mirror", "Mirror" ],
+  "texture": "IGCC_business_man.png"
+}

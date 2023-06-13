@@ -1,0 +1,19 @@
+{
+  "name": "IGCC_cabinet_man",
+  "modPrefix": "IGCC",
+  "displayedName": "cabinet man",
+  "description": "don't worry, he won't hurt you unless you cheat",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "energyCost": 4,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "DrawCopyOnDeath", "QuadrupleBones" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "specialStatIcon": "Bones",
+  "specialAbilities": [ "Lammergeier" ],
+  "texture": "IGCC_cabinet_man.png"
+}

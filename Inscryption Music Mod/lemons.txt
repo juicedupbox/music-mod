@@ -1,0 +1,16 @@
+{
+  "name": "IGCC_lemons",
+  "modPrefix": "IGCC",
+  "displayedName": "lemons",
+  "description": "a sour little boy",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bonesCost": 4,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "SplitStrike" ],
+  "emissionTexture": "IGCC_lemons_emission.png",
+  "texture": "IGCC_lemons.png"
+}

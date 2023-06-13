@@ -1,0 +1,17 @@
+{
+  "name": "IGCC_motel",
+  "modPrefix": "IGCC",
+  "displayedName": "motel",
+  "description": "a good song never dies",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "DrawCopyOnDeath" ],
+  "emissionTexture": "IGCC_motel_emission.png",
+  "texture": "IGCC_motel.png"
+}

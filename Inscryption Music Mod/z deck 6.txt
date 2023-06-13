@@ -1,0 +1,6 @@
+StarterDeckInfo myDeck = ScriptableObject.CreateInstance<StarterDeckInfo>();
+myDeck.title = "Energy";
+myDeck.iconSprite = TextureHelper.GetImageAsSprite("C:\Users\farre\Pictures\Screenshots\Screenshot 2023-06-12 144739 - Copy.png", TextureHelper.SpriteType.StarterDeckIcon);
+myDeck.cards = new () { CardLoader.GetCardByName("IGCC_jazz_theme"), CardLoader.GetCardByName("IGCC_s__sight"), CardLoader.GetCardByName("IGCC_motel") };
+
+StarterDeckManager.Add(MyPlugin.Guid, myDeck);

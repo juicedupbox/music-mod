@@ -1,0 +1,18 @@
+{
+  "name": "IGCC_dirge",
+  "modPrefix": "IGCC",
+  "displayedName": "dirge",
+  "description": "come to papa, little eggs. now bring me more!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 6,
+  "bloodCost": 1,
+  "tribes": [ "Bird" ],
+  "abilities": [ "TriStrike" ],
+  "specialStatIcon": "GreenGems",
+  "specialAbilities": [ "GreenMage", "GreenMage" ],
+  "texture": "IGCC_dirge.png"
+}

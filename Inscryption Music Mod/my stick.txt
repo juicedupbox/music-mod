@@ -1,0 +1,18 @@
+{
+  "name": "IGCC_my_stick",
+  "modPrefix": "IGCC",
+  "displayedName": "my stick",
+  "description": "dencer than bacon",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [ "Insect" ],
+  "abilities": [ "GainGemGreen" ],
+  "specialStatIcon": "GreenGems",
+  "specialAbilities": [ "GreenMage", "GreenMage" ],
+  "emissionTexture": "IGCC_my_stick_emission.png",
+  "texture": "IGCC_my_stick.png"
+}

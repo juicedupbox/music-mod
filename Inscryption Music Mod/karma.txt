@@ -1,0 +1,19 @@
+{
+  "name": "IGCC_karma",
+  "modPrefix": "IGCC",
+  "displayedName": "karma",
+  "description": "i was so good...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bonesCost": 1,
+  "gemsCost": [ "Orange" ],
+  "tribes": [ "Hooved" ],
+  "abilities": [ "Submerge" ],
+  "specialStatIcon": "Mirror",
+  "specialAbilities": [ "Mirror", "Mirror" ],
+  "emissionTexture": "IGCC_karma_emission.png",
+  "texture": "IGCC_karma.png"
+}

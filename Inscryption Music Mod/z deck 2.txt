@@ -1,0 +1,6 @@
+StarterDeckInfo myDeck = ScriptableObject.CreateInstance<StarterDeckInfo>();
+myDeck.title = "Blue Mox";
+myDeck.iconSprite = TextureHelper.GetImageAsSprite("C:\Users\farre\Pictures\Screenshots\Screenshot 2023-06-12 150751 - Copy - Copy.png", TextureHelper.SpriteType.StarterDeckIcon);
+myDeck.cards = new () { CardLoader.GetCardByName("IGCC_legos"), CardLoader.GetCardByName("IGCC_house_fire"), CardLoader.GetCardByName("IGCC_lemons") };
+
+StarterDeckManager.Add(MyPlugin.Guid, myDeck);

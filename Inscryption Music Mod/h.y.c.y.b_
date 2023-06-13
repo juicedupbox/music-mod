@@ -1,0 +1,16 @@
+{
+  "name": "IGCC_h_y_c_y_b",
+  "modPrefix": "IGCC",
+  "displayedName": "h.y.c.y.b.",
+  "description": "do you know were my keys are?",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "gemsCost": [ "Orange" ],
+  "tribes": [ "Canine" ],
+  "abilities": [ "Brittle" ],
+  "emissionTexture": "IGCC_h_y_c_y_bh_emission.png",
+  "texture": "IGCC_h_y_c_y_bh.png"
+}

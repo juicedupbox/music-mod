@@ -1,0 +1,6 @@
+StarterDeckInfo myDeck = ScriptableObject.CreateInstance<StarterDeckInfo>();
+myDeck.title = "Bones 2";
+myDeck.iconSprite = TextureHelper.GetImageAsSprite("C:\Users\farre\Pictures\Screenshots\Screenshot 2023-06-12 171027.png", TextureHelper.SpriteType.StarterDeckIcon);
+myDeck.cards = new () { CardLoader.GetCardByName("IGCC_sangman"), CardLoader.GetCardByName("IGCC_seeker"), CardLoader.GetCardByName("IGCC_popcorn") };
+
+StarterDeckManager.Add(MyPlugin.Guid, myDeck);

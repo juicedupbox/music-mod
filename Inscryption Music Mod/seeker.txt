@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_seeker",
+  "modPrefix": "IGCC",
+  "displayedName": "seeker",
+  "description": "knock, knock, you can't hide from me",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bonesCost": 6,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "BeesOnHit" ],
+  "texture": "IGCC_seeker.png"
+}

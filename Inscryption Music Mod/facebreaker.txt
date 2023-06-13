@@ -1,0 +1,19 @@
+{
+  "name": "IGCC_facebreaker",
+  "modPrefix": "IGCC",
+  "displayedName": "facebreaker",
+  "description": "not my darkest day",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 1,
+  "energyCost": 1,
+  "bloodCost": 1,
+  "bonesCost": 1,
+  "gemsCost": [ "Blue" ],
+  "tribes": [ "Hooved" ],
+  "abilities": [ "Brittle", "DrawCopyOnDeath" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "IGCC_facebreaker.png"
+}
